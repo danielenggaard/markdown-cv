@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Curricilum Vitae - Daniel Enggaard
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Enggaard
+Software developer, 3rd semester of BSc in software development, IT-University of Copenhagen
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,11 +13,10 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Software Developer at Micromobilityadvisors
 
-### Specialized in
+### Subjects and Grades
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
