@@ -52,7 +52,7 @@ __Service Assistant at Netto__
 `2018 - 2019`
 __Service Assistant at Royal Arena__
 
-`2019 - `
+`2019 - now`
 __Software Developer at Micromobilityadvisors__
 
 
