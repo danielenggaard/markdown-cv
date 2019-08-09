@@ -7,9 +7,9 @@ title: Curricilum Vitae - Daniel Enggaard
 
 Software developer, 3rd semester of BSc in software development, IT-University of Copenhagen
 
-Mail: daniel@seos.dk
+Mail: __daniel@seos.dk__
 
-Phone: +45 41 97 42 08
+Phone: __+45 41 97 42 08__
 
 LinkedIn: https://www.linkedin.com/in/daniel-enggaard/
 
@@ -21,17 +21,17 @@ Software Developer at Micromobilityadvisors, Studying BSc Software Development a
 
 ### Subjects and Grades
 
-Foundations of Computing - Discrete Mathematics: 12
+Foundations of Computing - Discrete Mathematics: __12__
 
-Project Work and Communcation: 10
+Project Work and Communication: __10__
 
-Basic Programming: 10
+Basic Programming: __10__
 
-First Year Project. A Map of Denmark - Visualization, Navigation, Searching and Route: 12
+First Year Project. A Map of Denmark - Visualization, Navigation, Searching and Route: __12__
 
-Algorithms and Data Structures
+Algorithms and Data Structures: __10__
 
-Systematic Design of User Interfaces: 10
+Systematic Design of User Interfaces: __10__
 
 
 ### Experience
