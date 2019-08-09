@@ -40,6 +40,7 @@ Systematic Design of User Interfaces: 10
 - Algorithms and Data Structures
 - React and Bootstrap
 
+
 ## Work
 
 `2014 - 2016`
