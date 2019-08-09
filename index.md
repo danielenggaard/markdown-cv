@@ -22,26 +22,26 @@ Software Developer at Micromobilityadvisors
 - 2nd Semester
 
 
-### Research interests
+### Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Java
+- HTML, CSS & JavaScript
+- Node.js
+- Algorithms and Data Structures
+- React and Bootstrap
+
+## Work
+
+`2014 - 2016`
+__Badminton coach at Kastrup Magleby Badminton Club__
+
+`2015 - 2017`
+__Service Assistant at Netto__
 
 
-## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2018 - 2019`
+__Service Assistant at Royal Arena__
 
 
 ## Awards
