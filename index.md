@@ -18,9 +18,12 @@ Software Developer at Micromobilityadvisors
 
 ### Subjects and Grades
 
-- 1st Semester
-
-- 2nd Semester
+Foundations of Computing - Discrete Mathematics: 12
+Project Work and Communcation: 10
+Basic Programming: 10
+First Year Project. A Map of Denmark - Visualization, Navigation, Searching and Route: 12
+Algorithms and Data Structures
+Systematic Design of User Interfaces: 10
 
 
 ### Experience
