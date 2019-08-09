@@ -2,7 +2,7 @@
 layout: cv
 title: Curricilum Vitae - Daniel Enggaard
 ---
-# Daniel Enggaard
+# CV - Daniel Enggaard
 
 
 Software developer, 3rd semester of BSc in software development, IT-University of Copenhagen
