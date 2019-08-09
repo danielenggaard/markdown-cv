@@ -12,7 +12,7 @@ Mail: daniel@seos.dk
 
 Phone: __+45 41 97 42 08__
 
-LinkedIn: https://www.linkedin.com/in/daniel-enggaard/
+LinkedIn: <a href=https://www.linkedin.com/in/daniel-enggaard/>https://www.linkedin.com/in/daniel-enggaard/</a>
 
 
 ## Currently
