@@ -48,10 +48,11 @@ __Badminton coach at Kastrup Magleby Badminton Club__
 `2015 - 2017`
 __Service Assistant at Netto__
 
-
-
 `2018 - 2019`
 __Service Assistant at Royal Arena__
+
+`2019 - `
+__Software Developer at Micromobilityadvisors__
 
 
 ## Education
