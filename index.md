@@ -15,8 +15,12 @@ Software developer, 3rd semester of BSc in software development, IT-University o
 
 Software Developer at Micromobilityadvisors
 
+
 ### Subjects and Grades
 
+1. Semester
+
+2. Semester
 
 
 ### Research interests
