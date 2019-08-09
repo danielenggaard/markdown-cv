@@ -7,7 +7,7 @@ title: Curricilum Vitae - Daniel Enggaard
 
 Software developer, 3rd semester of BSc in software development, IT-University of Copenhagen
 
-Mail: __daniel@seos.dk__
+Mail: daniel@seos.dk
 
 Phone: __+45 41 97 42 08__
 
