@@ -3,6 +3,8 @@ layout: cv
 title: Curricilum Vitae - Daniel Enggaard
 ---
 # Daniel Enggaard
+
+
 Software developer, 3rd semester of BSc in software development, IT-University of Copenhagen
 
 Mail: daniel@seos.dk
@@ -14,7 +16,7 @@ LinkedIn: https://www.linkedin.com/in/daniel-enggaard/
 
 ## Currently
 
-Software Developer at Micromobilityadvisors
+Software Developer at Micromobilityadvisors, Studying BSc Software Development at IT-University of Copenhagen
 
 
 ### Subjects and Grades
