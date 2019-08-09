@@ -46,17 +46,19 @@ Systematic Design of User Interfaces: __10__
 
 ## Work
 
-`2014 - 2016`
-__Badminton coach at Kastrup Magleby Badminton Club__
 
-`2015 - 2017`
-__Service Assistant at Netto__
+`2019 - now`
+__Software Developer at Micromobilityadvisors__
 
 `2018 - 2019`
 __Service Assistant at Royal Arena__
 
-`2019 - now`
-__Software Developer at Micromobilityadvisors__
+`2015 - 2017`
+__Service Assistant at Netto__
+
+`2014 - 2016`
+__Badminton coach at Kastrup Magleby Badminton Club__
+
 
 
 ## Education
