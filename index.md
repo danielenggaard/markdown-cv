@@ -6,8 +6,7 @@ title: Curricilum Vitae - Daniel Enggaard
 Software developer, 3rd semester of BSc in software development, IT-University of Copenhagen
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="daniel@seos.dk">daniel@seos.dk</a>
 </div>
 
 
@@ -18,9 +17,9 @@ Software Developer at Micromobilityadvisors
 
 ### Subjects and Grades
 
-1. Semester
+- 1st Semester
 
-2. Semester
+- 2nd Semester
 
 
 ### Research interests
