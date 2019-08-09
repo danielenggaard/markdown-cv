@@ -11,6 +11,7 @@ Phone: +45 41 97 42 08
 
 LinkedIn: https://www.linkedin.com/in/daniel-enggaard/
 
+
 ## Currently
 
 Software Developer at Micromobilityadvisors
@@ -19,10 +20,15 @@ Software Developer at Micromobilityadvisors
 ### Subjects and Grades
 
 Foundations of Computing - Discrete Mathematics: 12
+
 Project Work and Communcation: 10
+
 Basic Programming: 10
+
 First Year Project. A Map of Denmark - Visualization, Navigation, Searching and Route: 12
+
 Algorithms and Data Structures
+
 Systematic Design of User Interfaces: 10
 
 
