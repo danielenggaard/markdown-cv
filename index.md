@@ -57,7 +57,7 @@ Mobile and Distributed Systems: __Java__
 
 
 `2019 - now`
-__Software Developer at Micromobilityadvisors__
+__Freelancer at Micromobilityadvisors__
 
 `2018 - 2019`
 __Service Assistant at Royal Arena__
