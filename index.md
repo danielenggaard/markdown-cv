@@ -17,7 +17,7 @@ LinkedIn: https://www.linkedin.com/in/daniel-enggaard/
 
 ## Currently
 
-Software Developer at Micromobilityadvisors, Studying BSc Software Development at IT-University of Copenhagen
+Software Developer, Freelancer at Micromobilityadvisors, Studying BSc Software Development at IT-University of Copenhagen
 
 
 ### Subjects and Grades
@@ -33,6 +33,15 @@ First Year Project. A Map of Denmark - Visualization, Navigation, Searching and 
 Algorithms and Data Structures: __10__
 
 Systematic Design of User Interfaces: __10__
+
+
+### Currently Studying Subjects & Technologies Involved
+
+Analysis, Design and Software Architecture: __C#, .Net__
+
+Introduction to Database Design: __SQL, postgreSQL__
+
+Mobile and Distributed Systems: __Java__
 
 
 ### Experience
