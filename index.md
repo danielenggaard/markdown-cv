@@ -50,7 +50,7 @@ Mobile and Distributed Systems: __Java__
 - HTML, CSS & JavaScript
 - Node.js
 - Algorithms and Data Structures
-- React and Bootstrap
+- React, Bootstrap & Material Design
 
 
 ## Work
