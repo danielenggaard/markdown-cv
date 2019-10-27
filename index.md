@@ -14,6 +14,8 @@ Phone: __+45 41 97 42 08__
 
 LinkedIn: https://www.linkedin.com/in/daniel-enggaard/
 
+Github: https://github.com/danielenggaard
+
 
 ## Currently
 
@@ -37,9 +39,9 @@ Systematic Design of User Interfaces: __10__
 
 ### Currently Studying Subjects & Technologies Involved
 
-Analysis, Design and Software Architecture: __C#, .Net__
+Analysis, Design and Software Architecture: __.Net Core__, __ASP.Net__
 
-Introduction to Database Design: __SQL, postgreSQL__
+Introduction to Database Design: __PostgreSQL__
 
 Mobile and Distributed Systems: __Java__
 
@@ -51,6 +53,11 @@ Mobile and Distributed Systems: __Java__
 - Node.js
 - Algorithms and Data Structures
 - React, Bootstrap & Material Design
+- C#, .Net, ASP.Net
+
+### Current Projects
+
+https://github.com/danielenggaard/whatsmyshortestpath - A web-based project that visualize single-source shortest path algorithms.
 
 
 ## Work
