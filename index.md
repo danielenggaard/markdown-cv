@@ -37,9 +37,9 @@ Systematic Design of User Interfaces: __10__
 
 ### Currently Studying Subjects & Technologies Involved
 
-Analysis, Design and Software Architecture: __C#, .Net__
+Analysis, Design and Software Architecture: __.Net Core__, __ASP.Net__
 
-Introduction to Database Design: __SQL, postgreSQL__
+Introduction to Database Design: __PostgreSQL__
 
 Mobile and Distributed Systems: __Java__
 
@@ -51,6 +51,7 @@ Mobile and Distributed Systems: __Java__
 - Node.js
 - Algorithms and Data Structures
 - React and Bootstrap
+- .Net Core, ASP.Net
 
 
 ## Work
