@@ -6,13 +6,15 @@ title: Curricilum Vitae - Daniel Enggaard
 
 
 
-Software developer, 3rd semester of BSc in software development, IT-University of Copenhagen
+Software developer, 3rd semester of BSc. Software Development, IT-University of Copenhagen
 
 Mail: daniel@seos.dk
 
 Phone: __+45 41 97 42 08__
 
 LinkedIn: https://www.linkedin.com/in/daniel-enggaard/
+
+Github: https://github.com/danielenggaard
 
 
 ## Currently
@@ -52,6 +54,9 @@ Mobile and Distributed Systems: __Java__
 - Algorithms and Data Structures
 - React and Bootstrap
 - .Net Core, ASP.Net
+
+### Current Open Source Projects
+https://github.com/danielenggaard/whatsmyshortestpath - A web-based project that can visualize and modify single-source shortest path algorithms.
 
 
 ## Work
