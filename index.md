@@ -37,7 +37,7 @@ Algorithms and Data Structures: __10__
 Systematic Design of User Interfaces: __10__
 
 
-### Currently Studying Subjects & Technologies Involved
+### Current Subjects
 
 Analysis, Design and Software Architecture: __.Net Core__, __ASP.Net__
 
@@ -58,7 +58,6 @@ Mobile and Distributed Systems: __Java__
 
 ## Work
 
-
 `2019 - now`
 __Software Developer at Micromobilityadvisors__
 
@@ -70,7 +69,6 @@ __Service Assistant at Netto__
 
 `2014 - 2016`
 __Badminton coach at Kastrup Magleby Badminton Club__
-
 
 
 ## Education
