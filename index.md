@@ -54,10 +54,7 @@ Mobile and Distributed Systems: __Java__
 - Algorithms and Data Structures
 - React and Bootstrap
 - .Net Core, ASP.Net
-
-### Current Open Source Projects
-https://github.com/danielenggaard/whatsmyshortestpath - A web-based project that can visualize and modify single-source shortest path algorithms.
-
+- SQL, PostgreSQL
 
 ## Work
 
