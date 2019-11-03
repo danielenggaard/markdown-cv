@@ -75,12 +75,11 @@ __Badminton coach at Kastrup Magleby Badminton Club__
 
 ## Education
 
-`2005 - 2015`
-__Primary School__
+`2018 - 2021`
+__University - BSc. in Software Development__
 
 `2015 - 2018`
 __High School__
 
-`2018 - 2021`
-__University - BSc in Software Development__
-
+`2005 - 2015`
+__Primary School__
