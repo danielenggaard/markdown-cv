@@ -58,7 +58,7 @@ Mobile and Distributed Systems: __Java__
 
 ## Work
 
-`July 2019 - November 2019`
+`Jul. 2019 - Nov. 2019`
 __Software Developer at Micromobilityadvisors__
 
 `2018 - 2019`
