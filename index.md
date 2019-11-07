@@ -10,7 +10,7 @@ Software developer, 3rd semester of BSc. Software Development, IT-University of 
 
 Mail: daniel@seos.dk
 
-Phone: __+45 41 97 42 08__
+Phone: +45 41 97 42 08
 
 LinkedIn: https://www.linkedin.com/in/daniel-enggaard/
 
@@ -19,7 +19,7 @@ Github: https://github.com/danielenggaard
 
 ## Currently
 
-Software Developer, Freelancer at Micromobilityadvisors, Studying BSc Software Development at IT-University of Copenhagen
+Studying BSc. Software Development at IT-University of Copenhagen
 
 
 ### Subjects and Grades
@@ -58,7 +58,7 @@ Mobile and Distributed Systems: __Java__
 
 ## Work
 
-`2019 - now`
+`July 2019 - November 2019`
 __Software Developer at Micromobilityadvisors__
 
 `2018 - 2019`
