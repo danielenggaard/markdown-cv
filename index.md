@@ -22,28 +22,15 @@ Github: https://github.com/danielenggaard
 Studying BSc. Software Development at IT-University of Copenhagen
 
 
-### Subjects and Grades
-
-Foundations of Computing - Discrete Mathematics: __12__
-
-Project Work and Communication: __10__
-
-Basic Programming: __10__
-
-First Year Project. A Map of Denmark - Visualization, Navigation, Searching and Route: __12__
-
-Algorithms and Data Structures: __10__
-
-Systematic Design of User Interfaces: __10__
-
-
 ### Current Subjects
 
-Analysis, Design and Software Architecture: __.Net Core__, __ASP.Net__
+Second Year Project: Functional Programming
 
-Introduction to Database Design: __PostgreSQL__
+Introduction to Artificial Intelligence
 
-Mobile and Distributed Systems: __Java__
+Second Year Project: Software Development in Large Teams
+
+System Development and Project Organization
 
 
 ### Experience
@@ -51,15 +38,18 @@ Mobile and Distributed Systems: __Java__
 - Java
 - HTML, CSS & JavaScript
 - Node.js
-- Algorithms and Data Structures
+- Algorithms, Artificial Intelligence and Data Structures
 - React and Bootstrap
-- .Net Core, ASP.Net
+- .Net Core, ASP.Net, F#
 - SQL, PostgreSQL
 
 ## Work
 
+`Dec. 2019 - Now`
+__Software Developer at 3Shape__
+
 `Jul. 2019 - Nov. 2019`
-__Software Developer at Micromobilityadvisors__
+__Freelancer at Micromobilityadvisors__
 
 `2018 - 2019`
 __Service Assistant at Royal Arena__
